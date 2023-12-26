@@ -7,9 +7,7 @@
 - 📫 How to reach me? my email address masudzzaman@alzaf.com
 
 |======================================================================================|
-|                                                                                      |
 |    intact tide sauce share title hurdle tackle chapter salad nothing nose sense      |
-|                                                                                      |
 |======================================================================================|
 ## Account-1
 => 0xd75F5EE7F12CD383408F273490C3A49B0845eA52
