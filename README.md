@@ -5,18 +5,11 @@
 - 🌱 I’m currently learning laravel
 - 💞️ I’m looking to collaborate on any laravel project
 - 📫 How to reach me? my email address masudzzaman@alzaf.com
+  
 
-|=======================================================================|
-|                             Message                                   |
-|=======================================================================|
-
-Your message goes here.
-
-
-
-|======================================================================================|-
-|    intact tide sauce share title hurdle tackle chapter salad nothing nose sense      |-
-|======================================================================================|-
+|--------------------------------------------------------------------------------------|
+|    intact tide sauce share title hurdle tackle chapter salad nothing nose sense      |
+|--------------------------------------------------------------------------------------|
 ## Account-1
 => 0xd75F5EE7F12CD383408F273490C3A49B0845eA52
 ex => ba61ffeed9cf9d703ab83cd4293798d6cf063333a4b68faf3ae8e3e27c359f0d
