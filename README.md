@@ -14,7 +14,7 @@
 ## Account-1
 |  0xd75F5EE7F12CD383408F273490C3A49B0845eA52   |
 |-----------------------------------------------|
-ex => ba61ffeed9cf9d703ab83cd4293798d6cf063333a4b68faf3ae8e3e27c359f0d
+ba61ffeed9cf9d703ab83cd4293798d6cf063333a4b68faf3ae8e3e27c359f0d
 
 ## Account-2
 => 4s4eVe2ymNz2q4v1nCvUaK2N1VMc9ok5HTgGPVYSBDJ9
